@@ -17,3 +17,12 @@
 The **Ironchip Logon Diagnostic Tool** is a utility designed to display system information and perform a series of diagnostic checks to verify machine compatibility with [Ironchip Windows Logon](https://github.com/Ironchip-Security/Ironchip-Windows-Logon).
 
 Its primary purpose is to help administrators, support teams, and integrators quickly determine whether a target system meets the technical requirements and environmental conditions needed for a successful Ironchip Windows Logon deployment.
+
+## Download
+Download the latest (`.exe`) executable:
+
+<p align="left">
+  <a href="https://github.com/Ironchip-Security/Ironchip-Logon-Diagnostic-Tool/releases/latest/download/IronchipLogonDiagnoseTool.exe">
+    <img alt="Download Diagnostic Tool" src="https://custom-icon-badges.demolab.com/badge/-Download%20Diagnostic%20Tool-blue?style=for-the-badge&logo=download&logoColor=white">
+  </a>
+</p>
